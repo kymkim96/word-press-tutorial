@@ -3,3 +3,6 @@ wp-config.php
 
 # OS Files
 .DS_Store
+
+#.idea
+.idea
