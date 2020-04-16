@@ -605,3 +605,22 @@ article.post .post-extra {
 .error-desc {
   font-size: 36px;
 }
+
+.input-title {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.input-content {
+  width: 80%;
+  height: 80px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

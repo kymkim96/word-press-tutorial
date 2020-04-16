@@ -14,7 +14,7 @@ $it_base = get_template_directory_uri();
 
   <!-- head 태그에서 할 일 -->
   <?php
-  wp_enqueue_style( 'style-css', $it_base. '/style.css' );
+  wp_enqueue_style( 'style-css', $it_base. '/style.css', array(), rand(111, 9999), 'all' );
   ?>
   <!-- /head 태그에서 할 일 -->
   <?php wp_head(); ?>
